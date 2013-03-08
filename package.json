@@ -1,0 +1,55 @@
+{
+
+	"name":        "grunt-fp-phpacker",
+	"version":     "0.1.0",
+	"description": "Grunt plugin for PHP bundling",
+	"homepage":    "http://mousp.com/tools/grunt/phpacker/",
+
+	"author": {
+
+		"url":   "http://www.mousp.com/",
+		"name":  "MousP Softworx",
+		"email": "info@mousp.com"
+
+	},
+
+	"licenses": [
+		{
+			"url":  "",
+			"type": "MIT"
+		}
+	],
+
+	"engines": {
+		"node": ">=0.8.21"
+	},
+
+	"repository": {
+		"url":  "git://sources.mousp.com/grunt-fp-phpacker.git",
+		"type": "git"
+	},
+
+	"bugs": {
+		"url": ""
+	},
+ 
+	"keywords": [
+		"gruntplugin"
+	],
+
+	"devDependencies": {
+		"grunt":                  "~0.4.0",
+		"grunt-contrib-nodeunit": "~0.2.0", 
+		"grunt-contrib-jshint":   "~0.6.0",
+		"grunt-contrib-clean":    "~0.4.0"
+	},
+ 
+	"peerDependencies": {
+		"grunt": "~0.4.0"
+	},
+
+	"scripts": {
+		"test": "grunt test"
+	}
+
+}
