@@ -25,12 +25,12 @@
 	},
 
 	"repository": {
-		"url":  "git://sources.mousp.com/grunt-fp-phpacker.git",
+		"url":  "git://github.com/Proxmiff/grunt-fp-phpacker.git",
 		"type": "git"
 	},
 
 	"bugs": {
-		"url": ""
+		"url": "https://github.com/Proxmiff/grunt-fp-phpacker/issues"
 	},
  
 	"keywords": [
