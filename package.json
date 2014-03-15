@@ -3,7 +3,7 @@
 	"name":        "grunt-fp-phpacker",
 	"version":     "0.1.0",
 	"description": "Grunt plugin for PHP bundling",
-	"homepage":    "http://mousp.com/tools/grunt/phpacker/",
+	"homepage":    "https://github.com/Proxmiff/grunt-fp-phpacker",
 
 	"author": {
 
