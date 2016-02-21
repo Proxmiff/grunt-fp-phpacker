@@ -1,55 +1,42 @@
 {
-
-	"name":        "grunt-fp-phpacker",
-	"version":     "0.1.1",
+	"name": "grunt-fp-phpacker",
+	"version": "0.1.1",
 	"description": "Grunt plugin for PHP bundling",
-	"homepage":    "https://github.com/Proxmiff/grunt-fp-phpacker",
-
+	"homepage": "https://github.com/Proxmiff/grunt-fp-phpacker",
 	"author": {
-
-		"url":   "http://www.mousp.com/",
-		"name":  "MousP Softworx",
+		"url": "http://www.mousp.com/",
+		"name": "MousP Softworx",
 		"email": "info@mousp.com"
-
 	},
-
 	"licenses": [
 		{
-			"url":  "",
+			"url": "",
 			"type": "MIT"
 		}
 	],
-
 	"engines": {
 		"node": ">=0.8.21"
 	},
-
 	"repository": {
-		"url":  "git://github.com/Proxmiff/grunt-fp-phpacker.git",
+		"url": "git://github.com/Proxmiff/grunt-fp-phpacker.git",
 		"type": "git"
 	},
-
 	"bugs": {
 		"url": "https://github.com/Proxmiff/grunt-fp-phpacker/issues"
 	},
- 
 	"keywords": [
 		"gruntplugin"
 	],
-
 	"devDependencies": {
-		"grunt":                  "~0.4.0",
-		"grunt-contrib-nodeunit": "~0.2.0", 
-		"grunt-contrib-jshint":   "~0.6.0",
-		"grunt-contrib-clean":    "~0.4.0"
+		"grunt": "~0.4.0",
+		"grunt-contrib-nodeunit": "~0.2.0",
+		"grunt-contrib-jshint": "~0.6.0",
+		"grunt-contrib-clean": "~0.4.0"
 	},
- 
 	"peerDependencies": {
-		"grunt": "~0.4.0"
+		"grunt": ">=0.4.0"
 	},
-
 	"scripts": {
 		"test": "grunt test"
 	}
-
 }
